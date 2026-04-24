@@ -1,4 +1,4 @@
-# 🖥️ AutoInfra WS2025 — Menu de Configuração de Infraestrutura Windows Server 2025
+# 🖥️ Menu Configurar WS2025 — Menu de Configuração de Infraestrutura Windows Server 2025
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2025-0078D4?logo=windows&logoColor=white)
